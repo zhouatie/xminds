@@ -1,7 +1,12 @@
 # 浏览器http缓存
 
 ### 浏览器http缓存大致流程图
-![浏览器http缓存](./http-cache.png)
+![浏览器http缓存](https://zhouatie.github.io/xminds/http-cache/http-cache.png)
+
+### 缓存好处
+- 缓解服务器压力(不用每次去请求资源)；
+- 提升性能(打开本地资源速度当然比请求回来再打开要快得多)；
+- 减少带宽消耗(我相信你可以理解)；
 
 ### 缓存种类
 1. 浏览器缓存
